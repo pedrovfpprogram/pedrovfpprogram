@@ -9,7 +9,7 @@ Sou um estudante apaixonado por tecnologia, atualmente focado em aprimorar minha
 ## 🚀 Sobre Mim
 
 - 🎓 Atualmente dedicado aos estudos acadêmicos e ao desenvolvimento de sistemas.
-- 💻 Focado no aprendizado de **Python Básico** e lógica de programação.
+- 💻 Focado no aprendizado de **Python** e lógica de programação.
 - 🎮 Nas horas vagas, curto jogar Clash Royale e eFootball.
 
 ---
