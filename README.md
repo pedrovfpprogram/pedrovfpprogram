@@ -24,4 +24,9 @@ Sou um estudante apaixonado por tecnologia, atualmente focado em aprimorar minha
 
 ---
 
+## 📊 Minhas Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrovfpprogram&show_icons=true&theme=radical&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovfpprogram&layout=compact&theme=radical&hide_border=true)
+---
+
 > "O código é como o humor. Quando você tem que explicar, é ruim."
