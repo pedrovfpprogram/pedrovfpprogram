@@ -13,7 +13,7 @@ Sou um estudante apaixonado por tecnologia, atualmente focado em aprimorar minha
 
 ## Principais projetos
 
-![](https://img.shields.io/badge/Status-Estudando%20Python-blue?style=flat-square&logo=python)
+[Organizador de Orçamentos com gerador automático de PDFs](https://github.com/pedrovfpprogram/organizador-de-orcamentos)
 
 ---
 
