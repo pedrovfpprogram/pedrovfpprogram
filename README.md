@@ -13,7 +13,9 @@ Sou um estudante apaixonado por tecnologia, atualmente focado em aprimorar minha
 
 ## Principais projetos
 
-![Gerador de PDFs a partir de BD de Orçamentos](https://img.shields.io/badge/Status-Estudando%20Python-blue?style=flat-square&logo=python)
+![Gerador de Orçamentos](https://img.shields.io/badge/Status-Estudando%20Python-blue?style=flat-square&logo=python)
+
+---
 
 ## 🚀 Sobre Mim
 
