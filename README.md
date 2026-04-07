@@ -11,12 +11,6 @@ Sou um estudante apaixonado por tecnologia, atualmente focado em aprimorar minha
 
 ---
 
-## Principais projetos
-
-[Organizador de Orçamentos com gerador automático de PDFs](https://github.com/pedrovfpprogram/organizador-de-orcamentos)
-
----
-
 ## 🚀 Sobre Mim
 
 - 🎓 Atualmente dedicado aos estudos acadêmicos e ao desenvolvimento de sistemas.
