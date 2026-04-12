@@ -14,7 +14,7 @@ Sou um desenvolvedor em evolução, focado em criar soluções práticas e organ
 
 * **Linguagem C++:** Explorando performance, ponteiros e algoritmos.
 * **Versionamento:** Dominando o Git para integrar meus projetos automaticamente.
-* **Automação com Python:** Aperfeiçoando sistemas como o meu [Organizador de Orçamentos](https://github.com/pedrovfpprogram/organizador-de-orcamentos).
+* **Lógica de Programação:** Aperfeiçoando a estruturação de sistemas modulares e eficientes.
 
 ---
 
