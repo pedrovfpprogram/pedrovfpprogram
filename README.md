@@ -18,6 +18,12 @@ Sou um desenvolvedor em evolução, focado em criar soluções práticas e organ
 
 ---
 
+### 📝 Projetos
+
+[Terminal.br](https://github.com/pedrovfpprogram/terminal)
+
+---
+
 ### 📊 Linguagens por Repo
 
 ![Linguagens por Repo](./languages.svg)
