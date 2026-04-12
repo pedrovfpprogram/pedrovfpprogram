@@ -20,6 +20,7 @@ Sou um desenvolvedor em evolução, focado em criar soluções práticas e organ
 
 ### 📝 Projetos
 
+**Em andamento**<br/>
 [Terminal.br](https://github.com/pedrovfpprogram/terminal) - Terminal em português para Windows feito totalmente em Python
 
 ---
