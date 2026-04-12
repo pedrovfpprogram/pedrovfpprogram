@@ -18,11 +18,9 @@ Sou um desenvolvedor em evolução, focado em criar soluções práticas e organ
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Linguagens por Repo
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrovfpprogram&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovfpprogram&layout=compact&langs_count=7&theme=dracula)
+![Linguagens por Repo](./languages.svg)
 
 ---
 *Estudando hoje para construir o amanhã.*
