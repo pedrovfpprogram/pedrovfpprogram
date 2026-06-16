@@ -22,7 +22,9 @@ Sou um desenvolvedor em evolução, focado em criar soluções práticas e organ
 
 **Concluídos**<br/>
 [Terminal.br](https://github.com/pedrovfpprogram/terminal) - Terminal em português para Windows feito totalmente em Python
+
 [Jogo da Forca](https://github.com/pedrovfpprogram/jogo-da-forca) - Jogo da Forca em C++ tanto para Linux quanto para Windows
+
 ---
 
 ### 📊 Linguagens por Repo
